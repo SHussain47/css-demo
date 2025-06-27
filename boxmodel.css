@@ -1,0 +1,17 @@
+* {
+    margin: 0px;
+}
+h1 {
+    border: green 2px solid;
+    text-align: center;
+    padding: 10px;
+    margin-top: 10px;
+    width: 500px;
+    /* height: 500px; */
+}
+
+span {
+    border: red 2px solid;
+    height: 500px;
+    /* display: block; */
+}

@@ -1,0 +1,14 @@
+#heading h1 {
+    border: solid 1px red;
+}
+
+.card {
+    border: solid 2px grey;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 16px;
+    margin-right: 10px;
+    background-color: #f4f4f4;
+    width: 175px;
+    display: inline-block;
+}
